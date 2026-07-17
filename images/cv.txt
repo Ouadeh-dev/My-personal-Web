@@ -1,0 +1,10 @@
+Ouadeh Islem - CV
+
+Name: Ouadeh Islem
+Age: 18
+Location: Oran, Algeria
+University: USTO University
+Field: Web Design
+Languages: Arabic (Native), English (Advanced)
+Skills: HTML, CSS, JavaScript, Web Design, Responsive Layouts
+Contact: ouadeh@example.com | +213 123 456 789
